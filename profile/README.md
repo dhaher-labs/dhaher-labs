@@ -25,9 +25,10 @@
 </p>
 
 <p>
-  <a href="mailto:mulkymalikuldhr@mail.com"><img src="https://img.shields.io/badge/Email-mulkymalikuldhr%40mail.com-D9A441?style=flat-square&logo=gmail&logoColor=D9A441" /></a>
-  <a href="https://github.com/mulkymalikuldhaher"><img src="https://img.shields.io/badge/Builder-mulkymalikuldhaher-8B949E?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://mulkymalikuldhaher.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-00D1C7?style=flat-square&logo=github&logoColor=00D1C7" /></a>
+  <a href="mailto:dhaher-labs@email.com"><img src="https://img.shields.io/badge/Email-dhaher--labs%40email.com-D9A441?style=flat-square&logo=gmail&logoColor=D9A441" /></a>
+  <a href="https://github.com/dhaher-labs"><img src="https://img.shields.io/badge/GitHub-dhaher--labs-8B949E?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://dhaher-labs.github.io"><img src="https://img.shields.io/badge/Website-Live-00D1C7?style=flat-square&logo=github&logoColor=00D1C7" /></a>
+  <a href="https://mulkymalikuldhaher.github.io"><img src="https://img.shields.io/badge/Builder-Portfolio-D9A441?style=flat-square&logo=github&logoColor=D9A441" /></a>
 </p>
 
 </div>
@@ -44,53 +45,125 @@ Currently being built by [Mulky Malikul Dhaher](https://github.com/mulkymalikuld
 
 ---
 
-### Focus Areas
+### 🎯 Focus Areas
 
 <table>
 <tr>
-<td width="25%" align="center" style="background:#1A1D20;">
-<br/>
-<img src="https://img.shields.io/badge/AI_SYSTEMS-00D1C7?style=for-the-badge&labelColor=1A1D20" /><br/><br/>
-<p style="color:#8B949E;font-size:0.85rem;">LLM integration, multi-agent coordination</p>
-<br/>
+<td width="25%" align="center" style="background:#1A1D20;border-radius:12px;padding:16px;">
+
+<img src="https://img.shields.io/badge/AI_SYSTEMS-00D1C7?style=for-the-badge&labelColor=1A1D20" />
+
+<p style="color:#8B949E;font-size:0.8rem;">LLM integration, multi-agent coordination</p>
+
 </td>
-<td width="25%" align="center" style="background:#1A1D20;">
-<br/>
-<img src="https://img.shields.io/badge/QUANT_INTELLIGENCE-D9A441?style=for-the-badge&labelColor=1A1D20" /><br/><br/>
-<p style="color:#8B949E;font-size:0.85rem;">Data pipelines, models, research dashboards</p>
-<br/>
+<td width="25%" align="center" style="background:#1A1D20;border-radius:12px;padding:16px;">
+
+<img src="https://img.shields.io/badge/QUANT_INTELLIGENCE-D9A441?style=for-the-badge&labelColor=1A1D20" />
+
+<p style="color:#8B949E;font-size:0.8rem;">Data pipelines, models, research dashboards</p>
+
 </td>
-<td width="25%" align="center" style="background:#1A1D20;">
-<br/>
-<img src="https://img.shields.io/badge/AUTONOMOUS_WORKFLOWS-00D1C7?style=for-the-badge&labelColor=1A1D20" /><br/><br/>
-<p style="color:#8B949E;font-size:0.85rem;">Automation, orchestration, agent systems</p>
-<br/>
+<td width="25%" align="center" style="background:#1A1D20;border-radius:12px;padding:16px;">
+
+<img src="https://img.shields.io/badge/AUTONOMOUS_WORKFLOWS-00D1C7?style=for-the-badge&labelColor=1A1D20" />
+
+<p style="color:#8B949E;font-size:0.8rem;">Automation, orchestration, agent systems</p>
+
 </td>
-<td width="25%" align="center" style="background:#1A1D20;">
-<br/>
-<img src="https://img.shields.io/badge/OPEN_SOURCE-D9A441?style=for-the-badge&labelColor=1A1D20" /><br/><br/>
-<p style="color:#8B949E;font-size:0.85rem;">Transparency, community, real tools</p>
-<br/>
+<td width="25%" align="center" style="background:#1A1D20;border-radius:12px;padding:16px;">
+
+<img src="https://img.shields.io/badge/OPEN_SOURCE-D9A441?style=for-the-badge&labelColor=1A1D20" />
+
+<p style="color:#8B949E;font-size:0.8rem;">Transparency, community, real tools</p>
+
 </td>
 </tr>
 </table>
 
 ---
 
-### Featured Repositories
+### 🏆 Featured Repositories
 
 <!-- FEATURED_REPOS_START -->
 
-| Repository | Description | Tech |
-|------------|-------------|------|
-| [`ProxyGateLLM`](https://github.com/mulkymalikuldhaher/ProxyGateLLM) | Multi-LLM API Gateway — 22 providers, 350+ models | Node.js, Docker |
-| [`OpenCode-Android`](https://github.com/mulkymalikuldhaher/OpenCode-Android) | Native Android AI coding agent | Kotlin, Material Design 3 |
-| [`Quant-Nanggroe-AI`](https://github.com/dhaher-labs/Quant-Nanggroe-AI) | Trading Research Dashboard | React 19, TypeScript |
-| [`blackhornet`](https://github.com/mulkymalikuldhaher/blackhornet) | Autonomous reconnaissance system | AI, Rust |
-| [`K.A.L.E.N`](https://github.com/mulkymalikuldhaher/K.A.L.E.N) | Autonomous workflow orchestration | TypeScript, Node.js |
-| [`AI-MultiColony-Ecosystem`](https://github.com/mulkymalikuldhaher/AI-MultiColony-Ecosystem) | Multi-agent orchestration framework | Python |
-| [`Mnemosyne`](https://github.com/mulkymalikuldhaher/Mnemosyne) | Memory and context management for AI agents | Python |
-| [`GhostStudio-AI`](https://github.com/mulkymalikuldhaher/GhostStudio-AI) | AI-powered creative studio | TypeScript, LLM |
+<table width="100%">
+<tr>
+<td width="50%">
+
+#### 🌟 [ProxyGateLLM](https://github.com/mulkymalikuldhaher/ProxyGateLLM)
+Multi-LLM API Gateway — 22 providers, 350+ models
+
+![Stars](https://img.shields.io/github/stars/mulkymalikuldhaher/ProxyGateLLM?style=social)
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+</td>
+<td width="50%">
+
+#### 🌟 [OpenCode-Android](https://github.com/mulkymalikuldhaher/OpenCode-Android)
+Native Android AI coding agent
+
+![Stars](https://img.shields.io/github/stars/mulkymalikuldhaher/OpenCode-Android?style=social)
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🔬 [Quant-Nanggroe-AI](https://github.com/dhaher-labs/Quant-Nanggroe-AI)
+Trading Research Dashboard
+
+<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+</td>
+<td width="50%">
+
+#### 🐝 [blackhornet](https://github.com/mulkymalikuldhaher/blackhornet)
+Autonomous reconnaissance system
+
+<img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### ⚡ [K.A.L.E.N](https://github.com/mulkymalikuldhaher/K.A.L.E.N)
+Workflow orchestration
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+
+</td>
+<td width="50%">
+
+#### 🧠 [Mnemosyne](https://github.com/mulkymalikuldhaher/Mnemosyne)
+AI agent memory management
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🐜 [AI-MultiColony-Ecosystem](https://github.com/mulkymalikuldhaher/AI-MultiColony-Ecosystem)
+Multi-agent orchestration framework
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+</td>
+<td width="50%">
+
+#### 👻 [GhostStudio-AI](https://github.com/mulkymalikuldhaher/GhostStudio-AI)
+AI-powered creative studio
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/LLM-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 <!-- FEATURED_REPOS_END -->
 
@@ -99,25 +172,45 @@ Currently being built by [Mulky Malikul Dhaher](https://github.com/mulkymalikuld
 ### What We Build
 
 We focus on tools that are:
-- **Practical** — Solves a real problem, not just a demo
-- **Open** — Source available, decisions documented
-- **Composable** — Fits into a larger system
-- **Honest** — No overclaimed intelligence or fake autonomy
+- 🔧 **Practical** — Solves a real problem, not just a demo
+- 👁️ **Open** — Source available, decisions documented
+- 🧩 **Composable** — Fits into a larger system
+- 🛡️ **Honest** — No overclaimed intelligence or fake autonomy
 
 ---
 
-### Contact
+### 🔗 Links
 
-```
-Email:      mulkymalikuldhr@mail.com
-Instagram:  @mulkymalikuldhr
-GitHub:     github.com/dhaher-labs
-Builder:    github.com/mulkymalikuldhaher
-Portfolio:  mulkymalikuldhaher.github.io
-```
+<table>
+<tr>
+<td align="center">
+
+🌐 [**Dhaher Labs Website**](https://dhaher-labs.github.io)
+
+</td>
+<td align="center">
+
+👨‍💻 [**Builder's Portfolio**](https://mulkymalikuldhaher.github.io)
+
+</td>
+<td align="center">
+
+📧 [**Email**](mailto:dhaher-labs@email.com)
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
 <em>Research &bull; Build &bull; Automate &bull; Ship</em>
+
+<br/><br/>
+
+<a href="https://mulkymalikuldhaher.github.io">
+  <img src="https://img.shields.io/badge/👨‍💻_Visit_Builder_Portfolio-mulkymalikuldhaher.github.io-00D1C7?style=for-the-badge&labelColor=1A1D20" />
+</a>
 
 </div>
