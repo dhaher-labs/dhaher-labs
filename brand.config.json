@@ -1,0 +1,283 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2025-06-13",
+
+  "identity": {
+    "name": "Mulky Malikul Dhaher",
+    "headline": "Industrial Maintenance Technician • Self-taught Developer • Building Dhaher Labs",
+    "rolePrimary": "Industrial Maintenance Technician & Panel Control Operator",
+    "roleSecondary": "Self-taught Developer",
+    "tagline": "Work by day. Build by night. Ship what matters.",
+    "location": "Lhokseumawe, Aceh, Indonesia",
+    "pronouns": null
+  },
+
+  "brand": {
+    "name": "Dhaher Labs",
+    "tagline": "Building practical AI systems, quantitative tools, and autonomous workflows.",
+    "description": "A small independent lab focused on practical AI systems, quantitative intelligence, and open-source research. Currently being built by Mulky Malikul Dhaher.",
+    "positioning": "small lab, not a company"
+  },
+
+  "colors": {
+    "baseDark": "#1A1D20",
+    "secondaryDark": "#0F172A",
+    "accentGold": "#D9A441",
+    "accentCyan": "#00D1C7",
+    "textWhite": "#FFFFFF",
+    "textMuted": "#8B949E"
+  },
+
+  "contact": {
+    "email": "mulkymalikuldhr@mail.com",
+    "github": "github.com/mulkymalikuldhaher",
+    "githubOrg": "github.com/dhaher-labs",
+    "instagram": "@mulkymalikuldhr",
+    "portfolio": "mulkymalikuldhaher.github.io",
+    "linkedin": "linkedin.com/in/mulky-malikul-dhaher-384292199",
+    "googleDev": "g.dev/mulkymalikuldhr"
+  },
+
+  "work": {
+    "current": {
+      "title": "Maintenance Technician & Panel Control Operator",
+      "company": "PT Yoga Wibawa Mandiri",
+      "location": "Lhokseumawe, Aceh",
+      "period": "Apr 2021 – Present",
+      "description": "Operate and maintain industrial control panel systems for cement packing operations. Perform electrical and mechanical troubleshooting. Implement process optimization and safety compliance."
+    },
+    "past": [
+      {
+        "title": "Transportation & Freight Administration",
+        "company": "PT Yoga Wibawa Mandiri",
+        "location": "Lhokseumawe, Aceh",
+        "period": "Nov 2016 – Jan 2018",
+        "description": "Managed shipping documents and transportation schedules for industrial material logistics."
+      },
+      {
+        "title": "Waiter",
+        "company": "Modern Corner Restaurant",
+        "location": "Klang, Malaysia",
+        "period": "Nov 2016 – Dec 2016",
+        "description": "Food service operations."
+      }
+    ]
+  },
+
+  "education": [
+    {
+      "degree": "Sistem Informasi (S1)",
+      "institution": "Universitas Terbuka (Indonesia Open University)",
+      "period": "2025 – Present",
+      "status": "ongoing"
+    },
+    {
+      "degree": "Teknik Informatika — Prodi Multimedia",
+      "institution": "SMK Negeri 2 Lhokseumawe",
+      "period": "2012 – 2015",
+      "status": "completed"
+    }
+  ],
+
+  "languages": [
+    { "name": "Indonesian", "level": "Native" },
+    { "name": "Malay", "level": "High Proficiency" },
+    { "name": "English", "level": "Intermediate" }
+  ],
+
+  "skills": {
+    "development": {
+      "learning": ["Python", "JavaScript", "TypeScript", "Node.js", "HTML", "CSS", "SQL", "React"],
+      "comfortable": ["Express.js", "Git", "GitHub", "Docker", "Linux", "API Integration", "Web Scraping", "AI-Assisted Development"]
+    },
+    "industrial": ["Maintenance & Troubleshooting", "Control Panel Operation", "Electrical Systems", "Mechanical Systems", "Safety Protocols", "Process Optimization", "Spreadsheet Automation"],
+    "other": ["Multimedia Design", "Visual Communication", "Data Entry & Recapitulation", "Technical Documentation"]
+  },
+
+  "projects": {
+    "featured": [
+      {
+        "name": "ProxyGateLLM",
+        "description": "Multi-LLM API Gateway — self-hosted, open-source proxy aggregating 22 LLM providers (350+ models) into a single unified endpoint with OpenAI-compatible API.",
+        "tech": ["Node.js", "Express", "Puter.js SDK", "Docker"],
+        "stars": 34,
+        "forks": 15,
+        "category": "featured",
+        "year": 2025
+      },
+      {
+        "name": "Quant-Nanggroe-AI",
+        "description": "Trading Research Dashboard — quantitative research interface for market analysis with deterministic decision intelligence and multi-LLM routing.",
+        "tech": ["React 19", "TypeScript", "Tailwind CSS"],
+        "stars": 0,
+        "forks": 0,
+        "category": "featured",
+        "year": 2025
+      },
+      {
+        "name": "blackhornet",
+        "description": "Stealth autonomous system for real-time data reconnaissance and tactical intelligence gathering.",
+        "tech": ["AI", "Autonomous", "Rust"],
+        "stars": 0,
+        "forks": 0,
+        "category": "featured",
+        "year": 2025
+      },
+      {
+        "name": "K.A.L.E.N",
+        "description": "Autonomous workflow orchestration system.",
+        "tech": ["TypeScript", "Node.js"],
+        "stars": 0,
+        "forks": 0,
+        "category": "featured",
+        "year": 2025
+      },
+      {
+        "name": "Mnemosyne",
+        "description": "Memory and context management system for AI agents.",
+        "tech": ["Python", "AI"],
+        "stars": 0,
+        "forks": 0,
+        "category": "featured",
+        "year": 2025
+      },
+      {
+        "name": "AI-MultiColony-Ecosystem",
+        "description": "Multi-agent orchestration framework — collaborative AI agents that reason, delegate, and execute complex tasks.",
+        "tech": ["Python", "Multi-Agent"],
+        "stars": 0,
+        "forks": 0,
+        "category": "featured",
+        "year": 2025
+      },
+      {
+        "name": "GhostStudio-AI",
+        "description": "AI-powered creative studio tool.",
+        "tech": ["TypeScript", "AI", "LLM"],
+        "stars": 0,
+        "forks": 0,
+        "category": "featured",
+        "year": 2025
+      },
+      {
+        "name": "OpenCode-Android",
+        "description": "Native Android client for AI coding agent with real-time chat, terminal access, and code editor. Material Design 3.",
+        "tech": ["Kotlin", "Material Design 3", "SSE"],
+        "stars": 27,
+        "forks": 2,
+        "category": "featured",
+        "year": 2025
+      }
+    ],
+    "supporting": [
+      {
+        "name": "Nanggroe-IoT",
+        "description": "IoT infrastructure for Nanggroe ecosystem.",
+        "tech": ["IoT", "Python"],
+        "category": "supporting"
+      },
+      {
+        "name": "BioWallet",
+        "description": "Biometric wallet concept.",
+        "tech": ["TypeScript"],
+        "category": "supporting"
+      },
+      {
+        "name": "cyber-shell-x-nexus",
+        "description": "Cybersecurity learning platform with AI-powered guidance for ethical hacking training.",
+        "tech": ["TypeScript", "React", "Gemini AI"],
+        "stars": 4,
+        "forks": 0,
+        "category": "supporting"
+      },
+      {
+        "name": "oke-mekanik-mobile-service",
+        "description": "Mobile mechanic service platform.",
+        "tech": ["JavaScript", "Mobile"],
+        "category": "supporting"
+      },
+      {
+        "name": "PromptForgeAI",
+        "description": "AI prompt engineering toolkit.",
+        "tech": ["TypeScript", "AI"],
+        "category": "supporting"
+      },
+      {
+        "name": "Famlyzer-AI",
+        "description": "AI-powered family analysis tool.",
+        "tech": ["TypeScript", "AI"],
+        "category": "supporting"
+      },
+      {
+        "name": "Misi-Screener",
+        "description": "Market intelligence engine with agent-based architecture for real-time market data.",
+        "tech": ["Python", "FastAPI"],
+        "category": "supporting"
+      },
+      {
+        "name": "Trading-Plan-AI-Interactive",
+        "description": "Interactive AI-powered trading plan builder.",
+        "tech": ["TypeScript", "AI"],
+        "category": "supporting"
+      },
+      {
+        "name": "RTK-Token-Saver",
+        "description": "LLM token optimization proxy that reduces token consumption by 60-90%. Single Rust binary.",
+        "tech": ["Rust"],
+        "stars": 2,
+        "forks": 0,
+        "category": "supporting"
+      }
+    ],
+    "experimental": [
+      {
+        "name": "SolSniperX",
+        "description": "Blockchain automation bot for Solana — learning project.",
+        "tech": ["JavaScript", "Solana"],
+        "category": "experimental",
+        "note": "learning project"
+      },
+      {
+        "name": "WiFiToolX",
+        "description": "Network security assessment tool — authorized research only.",
+        "tech": ["TypeScript", "Security"],
+        "category": "experimental",
+        "note": "authorized security research"
+      },
+      {
+        "name": "GlowPilot",
+        "description": "AI dermatology & skincare advisor with voice interaction.",
+        "tech": ["TypeScript", "LLM", "Voice"],
+        "category": "experimental"
+      },
+      {
+        "name": "Clipper-AI",
+        "description": "AI clipboard assistant.",
+        "tech": ["TypeScript"],
+        "category": "experimental"
+      },
+      {
+        "name": "Personal-OS-Dashboard",
+        "description": "Life & productivity tracker — ongoing personal system.",
+        "tech": ["Spreadsheet Logic"],
+        "category": "experimental"
+      }
+    ]
+  },
+
+  "domainRecommendations": [
+    { "domain": "dhaherlabs.com", "priority": 1, "feel": "Professional, clean, brand-focused" },
+    { "domain": "dhaher.dev", "priority": 2, "feel": "Developer-focused, premium" },
+    { "domain": "mulky.dev", "priority": 3, "feel": "Personal developer identity" },
+    { "domain": "mulkydhaher.com", "priority": 4, "feel": "Personal brand" }
+  ],
+
+  "cvCorrections": {
+    "removeClaims": [
+      "100 public repositories on GitHub",
+      "1,542 GitHub contributions in the past year"
+    ],
+    "fixEducation": "Use 'Teknik Informatika — Prodi Multimedia' not 'Computer Science'",
+    "fixRole": "Do not use 'Founder' as primary headline. Use 'Independent Builder' or 'Building Dhaher Labs'"
+  }
+}
