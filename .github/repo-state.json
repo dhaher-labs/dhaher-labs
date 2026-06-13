@@ -1,1 +1,38 @@
-{"lastSync": null, "repos": []}
+{
+  "lastSync": "2026-06-13T10:13:25.378146+00:00",
+  "repos": [
+    {
+      "name": "dhaher-labs.github.io",
+      "description": "Dhaher Labs \u2014 Practical AI Systems & Research",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "url": "https://github.com/dhaher-labs/dhaher-labs.github.io",
+      "isPrivate": false,
+      "isFork": false,
+      "updatedAt": "2026-06-13T09:14:00Z",
+      "topics": [
+        "ai",
+        "nextjs",
+        "research",
+        "typescript"
+      ]
+    },
+    {
+      "name": "dhaher-labs",
+      "description": "Organization profile \u2014 Dhaher Labs",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "url": "https://github.com/dhaher-labs/dhaher-labs",
+      "isPrivate": false,
+      "isFork": false,
+      "updatedAt": "2026-06-13T08:58:26Z",
+      "topics": [
+        "ai",
+        "organization",
+        "research"
+      ]
+    }
+  ]
+}
