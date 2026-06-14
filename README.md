@@ -38,55 +38,8 @@ Dhaher Labs is a research and development organization focused on **practical AI
 
 <!-- DHAHER-LABS-REPOS-START -->
 > **📅 29 public repositories • [View all →](https://github.com/orgs/dhaher-labs/repositories)**
+>
 
-### 🤖 AI & Agents
-
-| Repository | Description | Language | Link |
-|---|---|---|---|
-| agent | Autonomous AI Agent Framework | N/A | [🔗](https://github.com/dhaher-labs/agent) |
-| Agentic-AI-System-ARCHIVED | [ARCHIVED] Legacy Agentic AI System | Python | [🔗](https://github.com/dhaher-labs/Agentic-AI-System-ARCHIVED) |
-| AI-MultiColony-Ecosystem | Multi-colony AI ecosystem with distributed agent coordi | HTML | [🔗](https://github.com/dhaher-labs/AI-MultiColony-Ecosystem) |
-| Autonomous-Organism | Self-evolving autonomous digital organism experiment | TypeScript | [🔗](https://github.com/dhaher-labs/Autonomous-Organism) |
-| BioWallet | Biometric-integrated crypto wallet concept | TypeScript | [🔗](https://github.com/dhaher-labs/BioWallet) |
-| Clipper-AI | AI clipboard assistant for smart content processing | N/A | [🔗](https://github.com/dhaher-labs/Clipper-AI) |
-| Famlyzer-AI | AI-powered family financial analyzer | TypeScript | [🔗](https://github.com/dhaher-labs/Famlyzer-AI) |
-| GhostStudio-AI | AI-driven creative studio for content generation | TypeScript | [🔗](https://github.com/dhaher-labs/GhostStudio-AI) |
-| GlowPilot-AI | AI glow effect generator for UI/UX design | TypeScript | [🔗](https://github.com/dhaher-labs/GlowPilot-AI) |
-| KALEN-Autonomous-Workflow | KALEN autonomous workflow orchestration engine | TypeScript | [🔗](https://github.com/dhaher-labs/KALEN-Autonomous-Workflow) |
-| Mnemosyne-AI | Memory-augmented AI research project | TypeScript | [🔗](https://github.com/dhaher-labs/Mnemosyne-AI) |
-| Narae | Narae conversational AI interface | TypeScript | [🔗](https://github.com/dhaher-labs/Narae) |
-| PromptForgeAI | AI prompt engineering and optimization toolkit | TypeScript | [🔗](https://github.com/dhaher-labs/PromptForgeAI) |
-
-### 📈 Trading & Quant
-
-| Repository | Description | Language | Link |
-|---|---|---|---|
-| AI-Trader | AI-powered trading signal analysis and automation | Python | [🔗](https://github.com/dhaher-labs/AI-Trader) |
-| Misi-Screener | Mission screener for automated task prioritization | Python | [🔗](https://github.com/dhaher-labs/Misi-Screener) |
-| Quant-Nanggroe-AI | Quantitative AI dashboard for Nanggroe analytics | HTML | [🔗](https://github.com/dhaher-labs/Quant-Nanggroe-AI) |
-| QuantMuse | Quantitative trading AI-assisted strategies | Python | [🔗](https://github.com/dhaher-labs/QuantMuse) |
-| SolSniperX | Solana sniper bot for token launches | JavaScript | [🔗](https://github.com/dhaher-labs/SolSniperX) |
-| Trading-Plan-AI | Interactive AI trading plan builder | Dart | [🔗](https://github.com/dhaher-labs/Trading-Plan-AI) |
-| TradingAgents | Multi-agent trading system framework | Python | [🔗](https://github.com/dhaher-labs/TradingAgents) |
-| Vibe-Trading | Sentiment-driven trading platform | Python | [🔗](https://github.com/dhaher-labs/Vibe-Trading) |
-
-### 🔒 Security & Infra
-
-| Repository | Description | Language | Link |
-|---|---|---|---|
-| BlackHornet | Reconnaissance and OSINT automation toolkit | Python | [🔗](https://github.com/dhaher-labs/BlackHornet) |
-| CyberShell-X-Nexus | Cybersecurity shell toolkit with nexus integration | TypeScript | [🔗](https://github.com/dhaher-labs/CyberShell-X-Nexus) |
-| ProxyGateLLM | LLM proxy gateway with rate limiting and routing | JavaScript | [🔗](https://github.com/dhaher-labs/ProxyGateLLM) |
-| WiFiToolX | WiFi network analysis and optimization toolkit | TypeScript | [🔗](https://github.com/dhaher-labs/WiFiToolX) |
-| ZeroInject | Zero-day injection testing framework for security resea | Dart | [🔗](https://github.com/dhaher-labs/ZeroInject) |
-
-### 🌐 Web & Mobile
-
-| Repository | Description | Language | Link |
-|---|---|---|---|
-| contribute-to-our-projects | Contribution guidelines for Dhaher Labs | HTML | [🔗](https://github.com/dhaher-labs/contribute-to-our-projects) |
-| Nanggroe-IoT | IoT platform for Aceh smart infrastructure | TypeScript | [🔗](https://github.com/dhaher-labs/Nanggroe-IoT) |
-| OpenCode-Android | Open-source code editor for Android | Kotlin | [🔗](https://github.com/dhaher-labs/OpenCode-Android) |
 
 <!-- DHAHER-LABS-REPOS-END -->
 
