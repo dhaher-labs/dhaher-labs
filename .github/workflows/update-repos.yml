@@ -1,0 +1,37 @@
+name: Update Repo List
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/update-repos.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update repo list
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/orgs/dhaher-labs/repos?per_page=100&type=public&sort=updated" | \
+            jq -r '.[] | select(.name != "dhaher-labs" and .name != "dhaher-labs.github.io") | 
+            "|\(.name)|\((.description // "No description") | sub("📡 "; "") | sub(" — by Dhaher Labs"; "") | .[0:55])|\(.language // "N/A")|[🔗](\(.html_url))|"')
+          
+          COUNT=$(echo "$REPOS" | grep -c "^|" || echo "0")
+          
+          TABLE="| Repository | Description | Language | Link |\n|---|---|---|---|\n$REPOS"
+          
+          sed -i "/<!-- DHAHER-LABS-REPOS-START -->/,/<!-- DHAHER-LABS-REPOS-END -->/c\<!-- DHAHER-LABS-REPOS-START -->\n> **📅 $COUNT public repositories • [View all →](https://github.com/orgs/dhaher-labs/repositories)**\n>\n$table\n\n<!-- DHAHER-LABS-REPOS-END -->" README.md
+          
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "🔄 auto-update: repo list" && git push)
